@@ -1,6 +1,6 @@
 {
     "DFRobotWiFiIoTI2C.WIFISetup|block": "WI-FI 設定 SSID:|%SSID 密碼:|%PASSWORD 開始連接",
-    "DFRobotWiFiIoTI2C.mqttSetup|block": "MQTT 設定|IOT_ID(用户): %IOT_ID| IOT_PWD(密碼) :%IOT_PWD| Topic(預設topic_0): %IOT_TOPIC|伺服器:%SERVERS||IP(SIOT):%IP",
+    "DFRobotWiFiIoTI2C.mqttSetup|block": "MQTT 設定|IOT_username: %IOT_ID| IOT_Password: %IOT_PWD| Topic(預設topic_0): %IOT_TOPIC|伺服器:%SERVERS||IP(SIOT):%IP",
     "DFRobotWiFiIoTI2C.mqttSendMessageMore|block": "傳送訊息 |%Mess 到|%TOPIC",
     "DFRobotWiFiIoTI2C.mqttCallbackUserMore|block": "當收到|%top",
     "DFRobotWiFiIoTI2C.mqttAddTopic|block": "新增訂閱|%top |: %IOT_TOPIC",
