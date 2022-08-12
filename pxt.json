@@ -1,0 +1,32 @@
+{
+    "name": "DFRobot_WIFI_I0T_I2C",
+    "version": "1.1.0",
+    "description": "Add Wi-Fi connectivity to micro:bit and start your IoT project in 5 minutes!",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "Obloq.ts",
+        "i2c.cpp",
+        "shims.d.ts",
+        "enums.d.ts",
+        "_locales/zh-cn/DFRobot_WIFI_I0T_I2C-strings.json",
+        "_locales/zh-tw/DFRobot_WIFI_I0T_I2C-strings.json",
+        "shims.d.ts",
+        "enums.d.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true,
+    "targetVersions": {
+        "target": "4.0.18",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}

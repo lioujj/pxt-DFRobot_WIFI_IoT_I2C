@@ -1,0 +1,18 @@
+{
+    "DFRobotWiFiIoTI2C.WIFISetup|block": "WI-FI 設定 SSID:|%SSID 密碼:|%PASSWORD 開始連接",
+    "DFRobotWiFiIoTI2C.mqttSetup|block": "MQTT 設定|IOT_ID(用户): %IOT_ID| IOT_PWD(密碼) :%IOT_PWD| Topic(預設topic_0): %IOT_TOPIC|伺服器:%SERVERS||IP(SIOT):%IP",
+    "DFRobotWiFiIoTI2C.mqttSendMessageMore|block": "傳送訊息 |%Mess 到|%TOPIC",
+    "DFRobotWiFiIoTI2C.mqttCallbackUserMore|block": "當收到|%top",
+    "DFRobotWiFiIoTI2C.mqttAddTopic|block": "新增訂閱|%top |: %IOT_TOPIC",
+    "DFRobotWiFiIoTI2C.IFTTTConfigure|block": "IFTTT 設定|事件名稱: %EVENT|金鑰: %KEY|",
+    "DFRobotWiFiIoTI2C.IFTTTSend|block": "IFTTT 傳送 Value1:%value1|Value2:%value2|Value3:%value3",
+    "DFRobotWiFiIoTI2C.ThingSpeakSend|block": "ThingSpeak 傳送 Field1:%field1||Field2:%field2|Field3:%field3|Field4:%field4|Field5:%field5|Field6:%field6|Field7:%field7 Field8:%field8",
+    "DFRobotWiFiIoTI2C.ThingSpeakConfigure|block": "ThingSpeak 設定 金鑰(Write Key): %KEY",
+    "DFRobotWiFiIoTI2C.httpGet|block": "http(get) | url %url| 逾時(毫秒) %time",
+    "DFRobotWiFiIoTI2C.httpPost|block": "http(post) | url %url| content %content| 逾時(毫秒) %time",
+    "DFRobotWiFiIoTI2C.httpPut|block": "http(put) | url %url| content %content| 逾時(毫秒) %time",
+    "DFRobotWiFiIoTI2C.httpSetup|block":"設定 http ip: %IP port: %PORT 開始連接",
+    "DFRobotWiFiIoTI2C.token|block": "BeeBotte 設定金鑰: %token",
+    "DFRobotWiFiIoTI2C.sendmessage|block": "BeeBotte 频道: %channel 資源: %resource 傳送資料 %data",
+    "DFRobotWiFiIoTI2C.getVersion|block":"取得版本號碼"
+}
